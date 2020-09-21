@@ -1,2 +1,4 @@
 Adding git ignore
 env.py
+__pycache__
+*.csv
