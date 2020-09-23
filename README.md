@@ -1,7 +1,7 @@
 # Telco_Project
 ## Churn Predictors
 ### Goals:
->	To create a classification model that can accurately identify the customers probability to churn using the TELCO data. 
+>	To create a classification model that can accurately identify the customers as someone that will churn or not  using the TELCO data. 
 >To attain this goal, I will be identifying the drivers of the churn and create a model that will incorporate these drivers(variables)
 >to accurately predict the customer’s likelihood to churn. 
 
